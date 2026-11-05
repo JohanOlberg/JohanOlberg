@@ -32,4 +32,4 @@ I keep a backlog of these ideas and use my spare time to experiment, learn new t
 ---
 
 *Always learning, always building.*
-- LinkedIn: [add your profile URL here.](https://www.linkedin.com/in/johan-olberg)
+- LinkedIn: https://www.linkedin.com/in/johan-olberg
